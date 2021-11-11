@@ -77,7 +77,7 @@ for (i = 0; i < input length; i++) do
 return false;
 ```
 
-> There are $n-1$ iterations of the outer loop. On each iteration, the inner loop iterates $n-i-1$ times. So in total the inner loop iterates $n-1 + n-2 + ... + 1$ times. So the number of times that [the inner function] executes is equal to the sum of the numbers from 1 to n-1. That sum is $n*(n-1)/2$, which is in $T(n^2)$ and thus also in $O(n^2)$.
+> There are $n-1$ iterations of the outer loop. On each iteration, the inner loop iterates $n-i-1$ times. So in total the inner loop iterates $n-1 + n-2 + ... + 1$ times. So the number of times that [the inner function] executes is equal to the sum of the numbers from 1 to n-1. That sum is $n*(n-1)/2$ , which is in $T(n^2)$ and thus also in $O(n^2)$ .
 > *[Source](https://stackoverflow.com/questions/18459727/big-o-time-complexity-for-nested-j-i-1-loop)*
 
 

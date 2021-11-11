@@ -64,7 +64,7 @@ if (found) then
 
 A quadratic algorithm has a big O notation of $O(n^2)$. Simple comparison based sorting algorithms are quadratic (e.g. insertion sort).
 
-An example of searching for duplicates in an array:
+An example of searching for duplicate names in a string array:
 
 ```
 for (i = 0; i < input length; i++) do

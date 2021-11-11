@@ -2,8 +2,6 @@
 
 See also: [[Time Complexity]]
 
-#complexity
-
 Similarly to time complexity, space complexity describes the amount of memory space required by an algorithm to solve a given problem.
 
 ## Constant space

@@ -2,8 +2,6 @@
 
 See also: [[Space Complexity]]
 
-#complexity
-
 Describes the amount of computer time it takes to run an algorithm. It is usually estimated by counting the number of elementary operations performed.
 
 Since an algorithms running time may different depending on a certain input, you'd usually consider the **worst-case** time complexity i.e the **maximum** amount of time. Another option is to use **average-case** complexity.

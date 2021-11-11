@@ -2,7 +2,6 @@
 
 A place for all things Java.
 
-
 - [[Java Primitives]]
     - some notes on primitive data types
 - [[Java Arrays]]

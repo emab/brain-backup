@@ -7,11 +7,13 @@
     "develop": "gatsby develop",
     "start": "gatsby develop",
     "build": "gatsby build",
-    "clean": "gatsby clean"
+    "clean": "gatsby clean",
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public"
   },
   "dependencies": {
     "gatsby": "^2.21.37",
     "gatsby-theme-garden": "^0.1.1",
+    "gh-pages": "^3.2.3",
     "react": "^16.12.0",
     "react-dom": "^16.12.0"
   }

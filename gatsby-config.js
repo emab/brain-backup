@@ -11,4 +11,5 @@ module.exports = {
   siteMetadata: {
     title: `Brain Backup`,
   },
+  pathPrefix: `/brain-backup`,
 }

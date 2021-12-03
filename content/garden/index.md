@@ -7,3 +7,4 @@ Remember to check your [[todo]] list and [[inbox]]!
 - [[Complexity]]
 - [[Java]]
 - [[Event Listener Handler Map React]]
+- [[Redux Observable Setup]]

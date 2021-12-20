@@ -1,10 +1,12 @@
 # Brain Bank
 
-Remember to check your [[todo]] list and [[inbox]]!
+## [[todo]] 
+## [[inbox]]
 
-### What are you trying to remember?
+### Contents
 
+- [[Azure SSO Integration]]
 - [[Complexity]]
-- [[Java]]
 - [[Event Listener Handler Map React]]
+- [[Java]]
 - [[Redux Observable Setup]]

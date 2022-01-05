@@ -1,4 +1,0 @@
-# Inbox
-
-- Nothing here!
-

@@ -2,7 +2,7 @@
 
 #rxjs #redux-observable #react
 
-When setting up [Redux Observable](redux-observable.js.org), it's really important to get the global error handler. I often forget to do this, and it means that if an error from an epic bubbles up to the root epic, the entire stream terminates.
+When setting up [Redux Observable](http://redux-observable.js.org), it's really important to get the global error handler. I often forget to do this, and it means that if an error from an epic bubbles up to the root epic, the entire stream terminates.
 
 **This isn't good!**
 

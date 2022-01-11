@@ -1,8 +1,13 @@
 # Git SSH
 
-Really useful if you're using two or more [[git]] accounts on a single computer. On windows I initially used the GitHub CLI tool, which allowed the use of `gh auth login` but this got annoying due to 2FA.
+Really useful if you're using two or more [[Git]] accounts on a single computer. On windows I initially used the GitHub CLI tool, which allowed the use of `gh auth login` but this got annoying due to 2FA.
 
 Switching to SSH made this process **much** easier, and it's relatively simple to get it set up.
+
+#### Note
+This will give you the correct permissions when pushing / pulling from a repo, but it will still use your global git config. Make sure to set `git config --local user.name` and `git config --local user.email` for each repository.
+
+Alternatively, see [[Git Account Switch]].
 
 ## Setup
 

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Cypress and MSAL SSO.md",
+            "file": "Git.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cypress and MSAL SSO.md",
+                "file": "Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "c40e7fa32effc5bc",
   "lastOpenFiles": [
+    "Git.md",
+    "Git SSH.md",
+    "Git Account Switch.md",
     "Cypress and MSAL SSO.md",
     "todo.md",
-    "Git SSH.md",
-    "Git.md",
     "Resetting a forked branch.md",
     "Event Listener Handler Map React.md",
     "Complexity.md",
     "Changing Commit Authors.md",
-    "home.md",
-    "Redux Observable Setup.md"
+    "home.md"
   ]
 }

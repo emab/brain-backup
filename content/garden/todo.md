@@ -1,3 +1,3 @@
 # Todo
 
-EMPTY
+- Add [[Cypress and MSAL SSO]] stuff

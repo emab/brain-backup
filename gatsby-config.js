@@ -1,15 +1,15 @@
 module.exports = {
+  pathPrefix: '/brain-backup',
+  siteMetadata: {
+    title: 'Brain Backup',
+  },
   plugins: [
     {
-      resolve: `gatsby-theme-garden`,
+      resolve: 'gatsby-philipps-foam-theme',
       options: {
-        contentPath: `${__dirname}/content/garden`,
-        rootNote: `/index`,
+        contentPath: 'content/garden',
+        rootNote: "home",
       },
     },
   ],
-  siteMetadata: {
-    title: `Brain Backup`,
-  },
-  pathPrefix: `/brain-backup`,
-}
+};

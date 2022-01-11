@@ -9,14 +9,19 @@
     "build": "gatsby build",
     "start:build": "gatsby serve",
     "clean": "gatsby clean",
-    "deploy": "gatsby build --prefix-paths && gh-pages -d public"
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public -r git@github-emab:emab/brain-backup.git",
+    "gh-pages": "gh-pages -d public -r git@github-emab:emab/brain-backup.git"
   },
   "dependencies": {
-    "gatsby": "^2.21.37",
-    "gatsby-theme-garden": "^0.1.1",
-    "gh-pages": "^3.2.3",
-    "react": "^16.12.0",
-    "react-dom": "^16.12.0",
-    "react-syntax-highlighter": "^15.4.5"
+    "autoprefixer": "^10.3.7",
+    "gatsby": "^3.14.3",
+    "gatsby-philipps-foam-theme": "^0.3.5",
+    "gatsby-plugin-postcss": "^4.14.0",
+    "postcss": "^8.3.11",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
   }
 }

@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "f323be9014a86218",
+    "type": "split",
+    "children": [
+      {
+        "id": "c40e7fa32effc5bc",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Cypress and MSAL SSO.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "886e59ae51ac2ea6",
+    "type": "split",
+    "children": [
+      {
+        "id": "a5e4007ce085f766",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c3527c6c025c48b7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7f4ec9c34f8f6de9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "react",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2bb7d12b90b566ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "b33d525f6c0218c8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "05b41c250301318d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Cypress and MSAL SSO.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "c40e7fa32effc5bc",
+  "lastOpenFiles": [
+    "Cypress and MSAL SSO.md",
+    "todo.md",
+    "Git SSH.md",
+    "Git.md",
+    "Resetting a forked branch.md",
+    "Event Listener Handler Map React.md",
+    "Complexity.md",
+    "Changing Commit Authors.md",
+    "home.md",
+    "Redux Observable Setup.md"
+  ]
+}

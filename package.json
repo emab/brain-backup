@@ -9,8 +9,8 @@
     "build": "gatsby build",
     "start:build": "gatsby serve",
     "clean": "gatsby clean",
-    "deploy": "gatsby build --prefix-paths && gh-pages -d public -r git@github-emab:emab/brain-backup.git",
-    "gh-pages": "gh-pages -d public -r git@github-emab:emab/brain-backup.git"
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public",
+    "gh-pages": "gh-pages -d public"
   },
   "dependencies": {
     "autoprefixer": "^10.3.7",

@@ -1,17 +1,16 @@
 {
   "main": {
-    "id": "f323be9014a86218",
+    "id": "1f6d9668e29dbc96",
     "type": "split",
     "children": [
       {
-        "id": "c40e7fa32effc5bc",
+        "id": "cb5648cff026dd0f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Redux Observable Setup.md",
-            "mode": "source",
-            "source": false
+            "file": "Azure Key Vault JavaScript.md",
+            "mode": "source"
           }
         }
       }
@@ -19,15 +18,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "886e59ae51ac2ea6",
+    "id": "19be777defdb8d1e",
     "type": "split",
     "children": [
       {
-        "id": "a5e4007ce085f766",
+        "id": "ef9ab54233ed06d6",
         "type": "tabs",
         "children": [
           {
-            "id": "c3527c6c025c48b7",
+            "id": "42f055603b92265f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,12 +34,12 @@
             }
           },
           {
-            "id": "7f4ec9c34f8f6de9",
+            "id": "3f7e35bc1d5c29b0",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "react",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -56,20 +55,20 @@
     "width": 300
   },
   "right": {
-    "id": "2bb7d12b90b566ab",
+    "id": "1337330f3fb720d9",
     "type": "split",
     "children": [
       {
-        "id": "b33d525f6c0218c8",
+        "id": "0a48a99256852a57",
         "type": "tabs",
         "children": [
           {
-            "id": "05b41c250301318d",
+            "id": "aa41621abde1cfaa",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Redux Observable Setup.md",
+                "file": "Azure Key Vault JavaScript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c40e7fa32effc5bc",
+  "active": "cb5648cff026dd0f",
   "lastOpenFiles": [
-    "Redux Observable Setup.md",
-    "Resetting a forked branch.md",
-    "redux-observable.js.org.md",
-    "Space Complexity.md",
-    "Time Complexity.md",
-    "Java Primitives.md",
-    "Java String.md",
+    "Azure Key Vault JavaScript.md",
+    "Cypress and MSAL SSO.md",
+    "todo.md",
     "Git.md",
-    "Git SSH.md",
-    "Git Account Switch.md"
+    "inbox.md",
+    "index.md",
+    "Java.md",
+    "Java Maps.md",
+    "Java Primitives.md",
+    "Java String.md"
   ]
 }

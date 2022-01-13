@@ -40,7 +40,7 @@ module.exports = {
       options: {
         mdxOtherwiseConfigured: true,
         contentPath: "content/garden",
-        rootNote: "home"
+        rootNote: "Home"
       }
     }
   ]

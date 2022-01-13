@@ -1,4 +1,4 @@
-# Brain Bank
+# Home
 
 ## [[todo]] 
 ## [[inbox]]

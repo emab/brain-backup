@@ -3,7 +3,7 @@ Recently created a project that used Azure AD for single sign-on, and I set up [
 
 I've used Azure Key Vault before on a C# project and it worked really well, as it used your Microsoft account to check your permissions in the Azure AD and could automatically inject env variables into your code when running it.
 
-Luckily there are some Azure provided libraries to handle this in JavaScript, and below is the file I used to grab and set some environment variables when running Cyoress.
+Luckily there are some Azure provided libraries to handle this in JavaScript, and below is the file I used to grab and set some environment variables when running Cypress.
 
 ```ts
 import { SecretClient } from "@azure/keyvault-secrets";
@@ -51,3 +51,6 @@ main().catch((error) => {
 ```
 
 I was also considering writing a `preinstall` script which just writes the variables to a file, but that comes with the risk of them being accidentally committed.
+
+## Requirements
+It's worth noting that for this to work properly you also need [Azure CLI](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli) installed. Once installed you should use `az login` and make sure you're logged into an account with permissions to use the Key Vault.

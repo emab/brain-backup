@@ -1,13 +1,23 @@
 # Home
 
-## [[todo]] 
-## [[inbox]]
+## [[Todo]] 
 
 ### Contents
 
-- [[Azure SSO Integration]]
-- [[Complexity]]
+#### Web
+- [[Redux Observable]]
 - [[Event Listener Handler Map React]]
-- [[Git]]
+
+#### Cloud
+- [[Azure SSO Integration]]
+
+#### Language
 - [[Java]]
-- [[Redux Observable Setup]]
+
+#### Concepts
+- [[Complexity]]
+
+#### Utils
+- [[Git]]
+
+

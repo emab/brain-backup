@@ -2,12 +2,9 @@
 
 A place for all things Java.
 
-## [[Java Primitives]]
+## Core 
 
-Some notes on Java primitives.
-
-## Core Objects
-
+- [[Java Primitives]]
 - [[Java String]]
 
 ## Data Structures

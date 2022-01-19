@@ -2,7 +2,9 @@
 
 #react #redux-observable #rxjs 
 
-If you're using `redux-observable` you may want to use it's built in methods for sending HTTP requests asyncronously.  
+If you're using `redux-observable` you may want to use it's built in methods for sending HTTP requests asyncronously.
+
+If you want a more familiar HTTP interface, see [[Redux Observable fetch]].
 
 I'm using [The One API](https://the-one-api.dev/) for my data. I have a mapper function which switches from `_id` to `id`.
 

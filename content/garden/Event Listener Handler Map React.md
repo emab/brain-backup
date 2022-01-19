@@ -9,12 +9,11 @@ type InputListeners = {
     [eventType in keyof Parial<WindowEventMap>]: (
         input: HTMLInputElement
     ) => {
-        handler: (event: WIndowEventMap[eventType]) => void;
+        handler: (event: WindowEventMap[eventType]) => void;
     };
 };
 
 // usage
-
 const listeners: InputListeners = {
     keydown: (input) => ({
         // event will be infered as KeyboardEvent

@@ -18,5 +18,17 @@ const rootEpic = (action$, store$, dependencies) =>
       return source;
     })
   );
-  ```
+```
   
+Along with this, you'll also want the following in your root store:
+
+```ts
+const epicMiddleware = createEpicMiddleware();
+
+const store = createStore(
+  rootReducer,
+  applyMiddleware(epicMiddleware)
+);
+
+epicMiddleware.run(rootEpic);
+```

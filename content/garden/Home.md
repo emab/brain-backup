@@ -1,23 +1,22 @@
 # Home
 
-## [[Todo]] 
+[[Todo]]
 
-### Contents
-
-#### Web
+### Web
 - [[Redux Observable]]
 - [[Event Listener Handler Map React]]
 
-#### Cloud
+### Cloud
 - [[Azure SSO Integration]]
 
-#### Language
+### Language
 - [[Java]]
+- [[TypeScript]]
 
-#### Concepts
+### Concepts
 - [[Complexity]]
 
-#### Utils
+### Utils
 - [[Git]]
 
 

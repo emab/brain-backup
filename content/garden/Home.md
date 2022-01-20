@@ -1,7 +1,5 @@
 # Home
 
-[[Todo]]
-
 ### Web
 - [[Redux Observable]]
 - [[Event Listener Handler Map React]]

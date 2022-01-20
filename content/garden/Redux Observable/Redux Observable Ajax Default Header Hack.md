@@ -5,7 +5,7 @@ This is an annoying problem since the parameters for `get`, `getJSON`, and `dele
 
 In the example below a Proxy is used to take the ajax method and then grab the position of the `header` object. The object then has a the token added to it, and is then called with the modified arguments.
 
-This is working with TS 4.5.4, however I did sneak an `any` in... would love to get rid of that if anyone has any suggestions.
+This is working with **TS 4.5.4**, however I did sneak an `any` in... would love to get rid of that if anyone has any suggestions.
 
 ```ts
 import { ajax as Ajax } from 'rxjs/ajax';
@@ -62,3 +62,5 @@ const ajaxProxy =
 
 export const ajax = (token: string) => ajaxProxy(token, Ajax);
 ```
+
+You can use [[Custom Operators]] to wrap this new authenticated ajax function to use easily in existing Epics.

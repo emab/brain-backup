@@ -8,3 +8,4 @@ Git tips!
 - [[Git Account Switch]]
 - [[Git Ignore Files]]
 - [[Rename Branch]]
+- [[Git Rebase Single Commit]]

@@ -9,3 +9,4 @@ Git tips!
 - [[Git Ignore Files]]
 - [[Rename Branch]]
 - [[Git Rebase Single Commit]]
+- [[Git Clean Local Branches]]

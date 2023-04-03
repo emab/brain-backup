@@ -10,3 +10,4 @@ Git tips!
 - [[Rename Branch]]
 - [[Git Rebase Single Commit]]
 - [[Git Clean Local Branches]]
+- [[Git Nice Log]]
